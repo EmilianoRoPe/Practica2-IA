@@ -1,0 +1,5 @@
+.venv/
+prompt_p2.md
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

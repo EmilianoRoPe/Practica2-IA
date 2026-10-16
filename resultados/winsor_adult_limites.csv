@@ -1,0 +1,11 @@
+variable,criterio,limite_inf,limite_sup,% recortado,min,max
+age,IQR,-2.0,78.0,0.43132865605634574,17,90
+age,Percentiles,17.0,74.0,0.8872266659386858,17,90
+education-num,IQR,4.5,16.5,3.761841063580028,1,16
+education-num,Percentiles,3.0,16.0,0.7152411891567252,1,16
+capital-gain,IQR,0.0,0.0,8.187054680461904,0,99999
+capital-gain,Percentiles,0.0,15024.0,0.7561901122000492,0,99999
+capital-loss,IQR,0.0,0.0,4.67090715514182,0,4356
+capital-loss,Percentiles,0.0,1980.0,0.9882340094455516,0,4356
+hours-per-week,IQR,32.5,52.5,27.64598291064945,1,99
+hours-per-week,Percentiles,8.0,80.0,1.5478692910376457,1,99

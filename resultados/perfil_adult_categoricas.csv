@@ -1,0 +1,9 @@
+variable,tipo,validos,ausentes,%ausente,unicos,moda,frec_moda,%moda,dominio (primeras categorias)
+workclass,str,46043,2799,5.7307235575938735,8,Private,33906,73.6398583932411,"Private, Self-emp-not-inc, Local-gov, State-gov, Self-emp-inc, Federal-gov, Without-pay, Never-worked"
+education,str,48842,0,0.0,16,HS-grad,15784,32.31644895786413,"HS-grad, Some-college, Bachelors, Masters, Assoc-voc, 11th, Assoc-acdm, 10th ..."
+marital-status,str,48842,0,0.0,7,Married-civ-spouse,22379,45.81917202407764,"Married-civ-spouse, Never-married, Divorced, Separated, Widowed, Married-spouse-absent, Married-AF-spouse"
+occupation,str,46033,2809,5.751197739650301,14,Prof-specialty,6172,13.407772684813068,"Prof-specialty, Craft-repair, Exec-managerial, Adm-clerical, Sales, Other-service, Machine-op-inspct, Transport-moving ..."
+relationship,str,48842,0,0.0,6,Husband,19716,40.36689734245117,"Husband, Not-in-family, Own-child, Unmarried, Wife, Other-relative"
+race,str,48842,0,0.0,5,White,41762,85.5042791040498,"White, Black, Asian-Pac-Islander, Amer-Indian-Eskimo, Other"
+sex,str,48842,0,0.0,2,Male,32650,66.84820441423365,"Male, Female"
+native-country,str,47985,857,1.7546374022357807,41,United-States,43832,91.34521204543087,"United-States, Mexico, Philippines, Germany, Puerto-Rico, Canada, El-Salvador, India ..."

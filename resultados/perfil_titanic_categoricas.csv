@@ -1,0 +1,7 @@
+variable,tipo,validos,ausentes,%ausente,unicos,moda,frec_moda,%moda,dominio (primeras categorias)
+Pclass,int64,891,0,0.0,3,3,491,55.10662177328844,"3, 1, 2"
+Sex,str,891,0,0.0,2,male,577,64.75869809203142,"male, female"
+Embarked,str,889,2,0.22446689113355783,3,S,644,72.44094488188976,"S, C, Q"
+Cabin,str,204,687,77.10437710437711,147,G6,4,1.9607843137254901,"G6, C23 C25 C27, B96 B98, F33, E101, F2, D, C22 C26 ..."
+Ticket,str,891,0,0.0,681,347082,7,0.7856341189674523,"347082, 1601, CA. 2343, 3101295, CA 2144, 347088, 382652, S.O.C. 14879 ..."
+Name,str,891,0,0.0,891,"Braund, Mr. Owen Harris",1,0.1122334455667789,"Braund, Mr. Owen Harris, Cumings, Mrs. John Bradley (Florence Briggs Thayer), Heikkinen, Miss. Laina, Futrelle, Mrs. Jacques Heath (Lily May Peel), Allen, Mr. William Henry, Moran, Mr. James, McCarthy, Mr. Timothy J, Palsson, Master. Gosta Leonard ..."
